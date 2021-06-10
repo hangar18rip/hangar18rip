@@ -1,5 +1,10 @@
 ### Hi there 🤘
 
+- 🔭 I’m currently working on DevOps applied to BI projects on Azure
+- 🌱 I’m currently learning GitHub
+- 👯 I’m looking to collaborate on DevOps tools and practices
+- 💬 Ask me about DevOps
+
 <!--
 **hangar18rip/hangar18rip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
