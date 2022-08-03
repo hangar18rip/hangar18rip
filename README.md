@@ -1,10 +1,11 @@
 ### Hi there 🤘
 
 - 🔭 I’m currently working on DevOps applied to BI projects on Azure
-- 🌱 I’m currently learning GitHub
+- 🌱 I’m currently (trying to) learning GitHub ecosystem
 - 👯 I’m looking to collaborate on DevOps tools and practices
-- 💬 Ask me about DevOps
+- 💬 Let's discuss about DevOps
 
+![My stats](https://github-readme-stats.vercel.app/api?username=hangar18rip&show_icons=true)
 <!--
 **hangar18rip/hangar18rip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
